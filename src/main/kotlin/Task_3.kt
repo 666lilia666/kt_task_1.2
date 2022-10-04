@@ -1,5 +1,5 @@
-fun main(){
-    val musicLovers = false
+fun main() {
+    val musicLovers = true
     val shopAmount = 13_000
     val standardDiscount = 100
     val discountStageOneMinValue = 1_001
